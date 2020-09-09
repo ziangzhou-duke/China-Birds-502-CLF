@@ -1,0 +1,11 @@
+/exp
+/data
+/logger
+/quick_infer.py
+/trainer
+/utils
+/validate.py
+/validate.sh
+/.ipynb_checkpoints
+/visualizer
+/00011.wav
